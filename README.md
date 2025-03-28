@@ -1,16 +1,19 @@
-## Hi there 👋
+## olá, vasculhe meu perfil, e verá que tenho muito a oferecer👍
 
-<!--
-**rafaelMoraes2012/rafaelMoraes2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+olá, meu nome é Rafael Moraes Ferreira, sou um estudante acadêmico. Algumas das minhas caractéristicas são:
 
-Here are some ideas to get you started:
+- Amador em programação;
+- Em aprendizado: JavaScript, C, Python e criação de sites e jogos;
+- Possuo Altas Habilidades/ Superdotação;
+ 
+**se caso necessitar saber minhas fontes de estudos:**
+  
+- obtenho informações de estudo na [Alura](https://www.alura.com.br), Oficinas, [Youtube](https:www.youtube.com.br), aulas precensiais, etc...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Para me contatar**
+
+rafael.moraes.ferreira@escola.pr.gov.br📧
+
+**no momento não estou aberto á ofertas!☹️👎**
+![](https://media1.tenor.com/m/9sPQlkbGzDQAAAAC/sad-emote.gif)
+https://media1.tenor.com/m/9sPQlkbGzDQAAAAC/sad-emote.gif
