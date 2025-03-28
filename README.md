@@ -1,6 +1,6 @@
 ## olá, bem vindo ao meu perfil, verá que tenho muito a oferecer👍
 
-olá, meu nome é Rafael Moraes Ferreira, sou um estudante acadêmico. Algumas das minhas caractéristicas são:
+olá, meu nome é Rafael Moraes Ferreira, sou um estudante fundamental **2**. Algumas das minhas caractéristicas são:
 
 - Amador em programação;
 - Em aprendizado: JavaScript, C, Python e criação de sites e jogos;
@@ -14,6 +14,6 @@ olá, meu nome é Rafael Moraes Ferreira, sou um estudante acadêmico. Algumas d
 
 rafael.moraes.ferreira@escola.pr.gov.br📧
 
-**no momento não estou aberto á ofertas!☹️👎**
+**no momento não estou podendo conversar☹️👎**
 ![](https://media1.tenor.com/m/9sPQlkbGzDQAAAAC/sad-emote.gif)
 https://media1.tenor.com/m/9sPQlkbGzDQAAAAC/sad-emote.gif
