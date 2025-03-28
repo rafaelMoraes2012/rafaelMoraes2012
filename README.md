@@ -1,4 +1,4 @@
-## olá, vasculhe meu perfil, e verá que tenho muito a oferecer👍
+## olá, bem vindo ao meu perfil, verá que tenho muito a oferecer👍
 
 olá, meu nome é Rafael Moraes Ferreira, sou um estudante acadêmico. Algumas das minhas caractéristicas são:
 
